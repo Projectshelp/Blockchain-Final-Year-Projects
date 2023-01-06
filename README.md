@@ -1,6 +1,9 @@
 # Blockchain-Final-Year-Projects
 
-These are three Blockchain Final Year Projects with Code and Documents 
+![Purple Creative Livestream YouTube Thumbnail](https://user-images.githubusercontent.com/81471840/211000770-fbc5725a-4399-4b96-b821-6bfc7fcf64cf.png)
+
+
+## These are three Blockchain Final Year Projects with Code and Documents 
 
 
 ### 1. https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System
